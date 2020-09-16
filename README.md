@@ -5,7 +5,7 @@
 
 ###### [weekly reports]
   **First week**
-  learn to use the github and have a general understanding of IOT\\
+  learn to use the github and have a general understanding of IOT\n
   **Second week**
   purchase the Raspberry Pi 4B with a camera and a display screen\\
   try to use the Raspberry Pi and call the camera , since I used to be familiar with C++ and matlab in the past , maybe I still need some time to grasp the Python\\

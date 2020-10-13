@@ -16,4 +16,4 @@
   **Fifth week**  
     The creation of mind maps;  
     The functions and tasks of each module are specified;  
-    The ultimate target of the project is to use the Siri assistant of IOS to remotely control the air conditioner .
+    The ultimate target of the project is to use the Siri assistant of IOS to remotely control the air conditioner . 

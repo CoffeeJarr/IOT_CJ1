@@ -12,5 +12,8 @@
   **Third week**  
     Using raspberry PI as a controller for air conditioning which can be operated remotely through Internet. Besides, it can collect the actual indoor temperature and humidity, and adjust different strategies to control the temperature, humidity and wind speed in different states, so as to achieve the best real-time control state  
   **Fourth week**  
-    Install the raspberry PI system, purchase the corresponding temperature sensor, humidity sensor, infrared receiving and sending equipment, familiar with their control situation .
-    
+    Install the raspberry PI system, purchase the corresponding temperature sensor, humidity sensor, infrared receiving and sending equipment, familiar with their control situation .   
+  **Fifth week**  
+    The creation of mind maps;  
+    The functions and tasks of each module are specified;  
+    The ultimate target of the project is to use the Siri assistant of IOS to remotely control the air conditioner .

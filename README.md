@@ -3,7 +3,7 @@
   2. Study to use the github since it's my first time  
   3. Record the study of the Pyhton and Raspberry Pi 4B  
 
-###### [weekly reports]
+###### [Weekly Reports]
 
   **Sixth week**  
   [2020-10-14]   

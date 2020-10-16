@@ -5,7 +5,10 @@
 
 ###### [Weekly Reports]
 
-  **Sixth week**  
+  **Sixth week**    
+  [2020-10-15]  
+  Use Winscp to make the Windows and Linux transfer files freely    
+  Use Synergy to make my desktop and RaspberryPi share the same mouse and keyboard , also the set RaspberryPi to start Synergy automatically when power-on  
   [2020-10-14]   
   Purchase MB-102 bread boards and various dupont lines and corresponding power modules
   New Development Steps:
@@ -14,8 +17,7 @@
       a. Raspberry PI as device accessed: Device platform: Linux; Device connection protocol: MQTT; Device development kit: Node.js  
       b. Download python3 and SDK for Raspberry Pi  
       c. Use the python example scripts which is offered by Aliyun website, modify Aliyun platform's ProductKey/DeviceSecret/DeviceName, run the program, successfully connect the Aliyun  
-    3. Connecting the same mouse system back and forth between the raspberry PI and my laptop was a hassle, so I chose to try sharing the keyboard mouse between computers. Synergy maybe a 
-       good way to help to share the keyboard mouse and the clipboard    
+    3. Connecting the same mouse system back and forth between the raspberry PI and my laptop was a hassle, so I chose to try sharing the keyboard mouse between computers. Synergy maybe a good way to help to share the keyboard mouse and the clipboard    
   **Fifth week**  
     The creation of mind maps;  
     The functions and tasks of each module are specified;  

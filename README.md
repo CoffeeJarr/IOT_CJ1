@@ -5,7 +5,9 @@
 
 ###### [Weekly Reports]
 
-  **Sixth week**    
+  **Sixth week**
+  [2020-10-17]  
+  The RaspberryPi successfully connected to the camera and realized video and photo functions, next step: try to connect to the Aliyun to show the video  
   [2020-10-15]  
   Use Winscp to make the Windows and Linux transfer files freely    
   Use Synergy to make my desktop and RaspberryPi share the same mouse and keyboard , also the set RaspberryPi to start Synergy automatically when power-on  

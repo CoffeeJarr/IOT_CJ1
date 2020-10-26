@@ -4,7 +4,13 @@
   3. Record the study of the Pyhton and Raspberry Pi 4B  
 
 ###### [Weekly Reports]
-
+  **Seventh week**    
+  [2020-10-26]  
+  Try to build a UI to check the room temperature and humidity  
+  [2020-10-25]  
+  The real-time temperature and humidity data collected by DHT11 is sent by Raspberry Pi to Aliyun platform successfully, and is set to be updated every 5 seconds  
+  [2020-10-23]  
+  Equipped with a 38KHZ universal infrared receiver and transmitter module  
   **Sixth week**  
   [2020-10-17]  
   The RaspberryPi successfully connected to the camera and realized video and photo functions, next step: try to connect to the Aliyun to show the video  

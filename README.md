@@ -4,6 +4,11 @@
   3. Record the study of the Pyhton and Raspberry Pi 4B  
 
 ###### [Weekly Reports]
+  **Eigth week**    
+  [2020-11-03]  
+  The infrared signal transmitter successfully transmitted from the RaspberryPi, and can controled through the signal from Aliyun      
+  [2020-11-01]  
+  The infrared signal receiver successfully connected to Aliyun  
   **Seventh week**    
   [2020-10-26]  
   Try to build a UI to check the room temperature and humidity  

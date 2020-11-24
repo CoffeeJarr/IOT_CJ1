@@ -4,6 +4,16 @@
   3. Record the study of the Pyhton and Raspberry Pi 4B  
 
 ###### [Weekly Reports]
+  **Tenth week**    
+  [2020-11-21]  
+  Change DHT11 to DHT22, improve the detection accuracy of temperature and humidity, modify the corresponding function, and realize that two kinds of sensors can be called at     the same time, and the accuracy of the two can be compared in the background 
+  [2020-11-17]  
+  Try to start the automatic connection between RaspberryPi and Aliyun when starting up. There is a slight problem and it is being solved  
+  **Ninth week**    
+  [2020-11-12]  
+  Continue to improve the types of commands sent from Aliyun to RaspberryPi, and realize the function of temperature control after the air conditioning is turned on 
+  [2020-11-09]  
+  Try sending commands to the RaspberryPi from Aliyun, and then indirectly control the infrared emission, Realize the function of turning on and off the air conditioner      
   **Eigth week**    
   [2020-11-03]  
   The infrared signal transmitter successfully transmitted from the RaspberryPi, and can controled through the signal from Aliyun      

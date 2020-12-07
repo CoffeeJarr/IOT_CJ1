@@ -1,7 +1,7 @@
 # Weekly Reports  
 ###  **Fifteenth week**   
   [2020-12-03]  
-    Reorganize GitHub content and weekly reports.   
+  \ \ Reorganize GitHub content and weekly reports.   
   [2020-12-01]  
   Update the final files of the project.   
 ###  **Fourteenth week**   

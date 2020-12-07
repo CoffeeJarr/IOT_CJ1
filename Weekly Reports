@@ -30,7 +30,7 @@
   [2020-10-14]   
   Purchase MB-102 bread boards and various dupont lines and corresponding power modules
   New Development Steps:
-    1. Install LIRC (LINUX infrared remote control) for Raspberry Pi  
+    1. Install LIRC (LINUX infrared remote control) for Raspberry Pi   
     2. Register Aliyun account and open the Aliyun Internet of Things platform  
       a. Raspberry PI as device accessed: Device platform: Linux; Device connection protocol: MQTT; Device development kit: Node.js  
       b. Download python3 and SDK for Raspberry Pi  

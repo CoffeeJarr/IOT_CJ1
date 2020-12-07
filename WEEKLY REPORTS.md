@@ -1,7 +1,7 @@
 # Weekly Reports  
 ###  **Fifteenth week**   
   [2020-12-03]  
-  Reorganize GitHub content and weekly reports.   
+    Reorganize GitHub content and weekly reports.   
   [2020-12-01]  
   Update the final files of the project.   
 ###  **Fourteenth week**   
@@ -40,7 +40,7 @@
   The real-time temperature and humidity data collected by DHT11 is sent by Raspberry Pi to Aliyun platform successfully, and is set to be updated every 5 seconds.  
   [2020-10-23]  
   Equipped with a 38KHZ universal infrared receiver and transmitter module.  
-###  **Eigth week**    
+###  **Eighth week**    
   [2020-10-21]  
 ###  **Seventh week**    
   [2020-10-18]   

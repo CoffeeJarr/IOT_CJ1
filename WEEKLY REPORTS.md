@@ -42,6 +42,7 @@
   Equipped with a 38KHZ universal infrared receiver and transmitter module.  
 ###  **Eighth week**    
   [2020-10-21]  
+  Make the RaspberryPi connect to the Aliyun and show the video online.  
 ###  **Seventh week**    
   [2020-10-18]   
   Lab 5: Crossbar.io, Eclipse Mosquitto and Eclipse Paho.  

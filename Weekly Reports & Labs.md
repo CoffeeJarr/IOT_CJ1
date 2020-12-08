@@ -91,7 +91,7 @@
 <figure class="half">
   <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/RaspberryPi.jpg" width = "400" height = "300">
   <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/screen.jpg" width = "400" height = "300">
-</figure>
+
 ###  **First week**  
   [2020-09-03]  
   Learn to use the GitHub and have a general understanding of the Internet of Things.  

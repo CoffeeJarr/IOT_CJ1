@@ -14,6 +14,7 @@
   2. Transmit the acquired data to Aliyun platform.  
   3. Use the infrared receiver to unencode the corresponding instruction code of the air conditioning remote control and set corresponding commands.  
   4. Send commands on Aliyun platform, and use the infrared transmitter connected with RaspberryPi to send commands to control the adjustment of temperature and humidity of air conditioning.  
+
 **Code**:  
   1. connect_dht11_aliyun.py # use dht11, get connection to the aliyun, and send the temperature and humidity data to the web.   
   2. connect_dht22_aliyun.py # use dht22, get connection to the aliyun, and send the temperature and humidity data to the web.   

@@ -11,8 +11,6 @@ import RPi.GPIO as GPIO
 import numpy as np
 import time
 
-#这个就是我们在阿里云注册产品和设备时的三元组啦
-#把我们自己对应的三元组填进去即可
 options = {
     'productKey':'###',
     'deviceName':'###',
@@ -26,7 +24,7 @@ LedPin = 12
 
 Led_status = 1
 
-GPIO.setmode(GPIO.BCM)      #以BCM编码格式
+GPIO.setmode(GPIO.BCM) 
 
 def setup():
     GPIO.setmode(GPIO.BOARD)       # Numbers GPIOs by physical location

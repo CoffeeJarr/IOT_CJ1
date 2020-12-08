@@ -87,7 +87,7 @@
   [2020-09-10]  
   Purchase the RaspberryPi 4B with a camera and a display screen.  
   Try to use the RaspberryPi and call the camera, since I used to be familiar with C++ and matlab in the past , maybe I still need some time to grasp the Python.  
- <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/RaspberryPi.jpg" width = "300" height = "200" align=center />
+ <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/RaspberryPi.jpg" width = "400" height = "200" align=center />
 ###  **First week**  
   [2020-09-03]  
   Learn to use the GitHub and have a general understanding of the Internet of Things.  

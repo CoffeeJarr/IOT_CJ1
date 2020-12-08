@@ -9,7 +9,7 @@
   Debug the commands sent by RaspberryPi from the Aliyun client, and try to make a nice interface.  
   [2020-11-27]   
   Use scrot to get the screenshots.  
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/scrot-d10.png" width = "400" height = "300" align=center />  
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/scrot-d10.png" width = "400" height = "240" align=center />  
 ###  **Thirteenth week**    
   [2020-11-22]  
   Lab 10: Blockchain, IOTA.   
@@ -20,7 +20,7 @@
 ###  **Twelfth week**     
   [2020-11-13]    
   Lab 9: NETCONF and YANG, Qiskit. 
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/lab9.png" width = "400" height = "300" align=center />  
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/lab9.png" width = "400" height = "240" align=center />  
   [2020-11-12]    
   Continue to improve the types of commands sent from Aliyun to RaspberryPi, and realize the function of temperature control after the air conditioning is turned on.  
   [2020-11-09]     
@@ -32,12 +32,12 @@
   The infrared signal transmitter successfully transmitted from the RaspberryPi, and can controled through the signal from Aliyun.     
   [2020-11-03]  
   The infrared signal receiver successfully connected to Aliyun.  
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/aliyuncode.png" width = "400" height = "300" align=center />  
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/aliyuncode.png" width = "400" height = "240" align=center />   
 ###  **Tenth week**   
   [2020-10-30]  
   Lab 7: Cloud Platforms: ThingSpeak, Google Sheets.  
   Use Winscp to make the Windows and Linux transfer files freely.    
-    <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/winscp.PNG" width = "400" height = "300" align=center />  
+    <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/winscp.PNG" width = "400" height = "240" align=center />   
 ###  **Ninth week**    
   [2020-10-27]  
   Lab 6: Alternative Devices, Particle Cloud, Node.js.  
@@ -57,8 +57,8 @@
   The RaspberryPi successfully connected to the camera and realized video and photo functions, next step: try to connect to the Aliyun to show the video.  
   [2020-10-15]  
   Use Synergy to make my desktop and RaspberryPi share the same mouse and keyboard , also the set RaspberryPi to start Synergy automatically when power-on.  
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/synergy_pi.png" width = "400" height = "300" align=center />  
-    <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/synergy_windows.png" width = "400" height = "300" align=center /> 
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/synergy_pi.png" width = "400" height = "240" align=center />   
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/synergy_windows.png" width = "400" height = "240" align=center />   
   [2020-10-14]   
   Purchase MB-102 bread boards and various dupont lines and corresponding power modules.  
   New Development Steps:
@@ -71,7 +71,7 @@
 ###  **Sixth week**  
   [2020-10-07]
   Lab 4: Django and Django REST, Flask, LAMP.   
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/lab4.png" width = "400" height = "300" align=center />  
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/lab4.png" width = "400" height = "240" align=center />  
 ###  **Fifth week**  
   [2020-10-02]  
   Lab 3: Python, Remote GPIO, PyPy, Doeygen.  
@@ -82,7 +82,7 @@
 ###  **Fourth week**
   [2020-09-26]  
   Lab 2: General-purpose input/ouput(GPIO) and serial communication, Serial peripheral interface(SPI), Breadboard, Light-emitting diode(LED), Inter-integrated circuit(I2C), 1-Wire, USB Webcam.  
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/lab2.png" width = "400" height = "300" align=center />  
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/lab2.png" width = "400" height = "240" align=center />  
   [2020-09-24]  
   Install the RaspberryPi system, purchase the corresponding temperature sensor, humidity sensor, infrared receiving and sending equipment, familiar with their control situation.   
 ###  **Third week**   
@@ -91,15 +91,15 @@
   [2020-09-17]  
   Using RaspBerryPi as a controller for air conditioning which can be operated remotely through Internet. Besides, it can collect the actual indoor temperature and humidity, and adjust.  
   Different strategies to control the temperature, humidity and wind speed in different states, so as to achieve the best real-time control state.  
-<img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/breadboard.jpg" width = "400" height = "300" align=center />  
+<img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/breadboard.jpg" width = "400" height = "240" align=center />  
 ###  **Second week**  
   [2020-09-10]  
   Purchase the RaspberryPi 4B with a camera and a display screen.  
   Try to use the RaspberryPi and call the camera, since I used to be familiar with C++ and matlab in the past , maybe I still need some time to grasp the Python.   
 
 <figure class="third">  
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/RaspberryPi.jpg" width = "400" height = "300">  
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/screen.jpg" width = "400" height = "300">  
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/RaspberryPi.jpg" width = "400" height = "240">  
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/screen.jpg" width = "400" height = "240">  
 </figure>  
 
 ###  **First week**  

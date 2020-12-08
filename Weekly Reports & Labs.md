@@ -19,8 +19,8 @@
   Try to start the automatic connection between RaspberryPi and Aliyun when starting up. There is a slight problem and it is being solved.   
 ###  **Twelfth week**     
   [2020-11-13]    
-  Lab 9: NETCONF and YANG, Qiskit. 
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/lab9.png" width = "400" height = "240" align=center />  
+  Lab 9: NETCONF and YANG, Qiskit.   
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/lab9.png" width = "400" height = "240" align=center />    
   [2020-11-12]    
   Continue to improve the types of commands sent from Aliyun to RaspberryPi, and realize the function of temperature control after the air conditioning is turned on.  
   [2020-11-09]     
@@ -58,7 +58,7 @@
   [2020-10-15]  
   Use Synergy to make my desktop and RaspberryPi share the same mouse and keyboard , also the set RaspberryPi to start Synergy automatically when power-on.  
   <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/synergy_pi.png" width = "400" height = "240" align=center />   
-  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/synergy_windows.png" width = "400" height = "240" align=center />   
+  <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/synergy_windows.PNG" width = "400" height = "240" align=center />   
   [2020-10-14]   
   Purchase MB-102 bread boards and various dupont lines and corresponding power modules.  
   New Development Steps:

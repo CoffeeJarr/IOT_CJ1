@@ -45,6 +45,7 @@
   Try to build a UI to check the room temperature and humidity.  
   [2020-10-25]  
   The real-time temperature and humidity data collected by DHT11 is sent by Raspberry Pi to Aliyun platform successfully, and is set to be updated every 5 seconds.  
+    <img src="https://github.com/ChenjieJia/IOT_CJ1/blob/master/images/aliyunplatform.png" width = "400" height = "240" align=center />  
   [2020-10-23]  
   Equipped with a 38KHZ universal infrared receiver and transmitter module.  
 ###  **Eighth week**    

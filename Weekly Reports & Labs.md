@@ -7,6 +7,8 @@
 ###  **Fourteenth week**   
   [2020-11-29]   
   Debug the commands sent by RaspberryPi from the Aliyun client, and try to make a nice interface.  
+  [2020-11-27]   
+  Use scrot to get the screenshots.
 ###  **Thirteenth week**    
   [2020-11-22]  
   Lab 10: Blockchain, IOTA.   
